@@ -1,2 +1,1 @@
-# Level256_Network
-3DS online server
+# Moved to https://github.com/Tekito-256/level256-client
